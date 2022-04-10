@@ -89,7 +89,7 @@ endmodule
 */
 ```
 ## Logic symbol & Truthtable
-![RTL](logic.png)
+![RTL](logic.jpg)
 
 ![RTL](table.png)
 
